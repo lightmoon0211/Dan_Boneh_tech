@@ -1,0 +1,50 @@
+2607.28050v1 :: IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD
+
+2501.17584v1 :: GLLM Self-Corrective G-Code Generation using Large Language Models with User Feedback
+
+2305.06161v2 :: StarCoder may the source be with you
+
+2025.acl-long.127 :: Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference(ModernBERT)
+
+1-s2.0-S2949719125000263-main :: It is all in the [MASK]: Simple instruction-tuning enables BERT-like masked language models as generative classifiers
+
+2607.25857v2 :: Shieldstral
+
+techrxiv.176369788.84013646_v1 :: Hands-on LLM-based Agents: A Tutorial for General Audiences
+
+2603.07685v2 :: Scalable Training of Mixture-of-Experts Models with Megatron Core
+
+1-s2.0-S027861252500038X-main :: Chat with MES: LLM-driven user interface for manipulating garment manufacturing system through natural language
+
+2608.15875v1 :: GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture
+
+2603.16790v3 :: InCoder-32B: Code Foundation Model for Industrial Scenarios
+
+2412.07724v2 :: Granite Guardian
+
+2505.09388v1 :: Qwen3 Technical Report
+
+1-s2.0-S2212827124006656-main :: An Investigation on Utilizing Large Language Model for Industrial Computer-Aided Design Automation
+
+https://nginx.org/en/docs/http/load_balancing.html :: Using nginx as HTTP load balancer
+
+2025_Day_1_Rewrite_v1_IntroductionToAgents
+
+APS-Simplified-with-Simio
+
+2505.08137v2 :: Large Language Models for Computer-Aided Design: A Survey
+
+
+
+
+
+
+advantechs
+
+Here's google drive link for the zip file.
+don't download this link
+https://drive.google.com/file/d/1unBYmIy4Hj9mlJjzrS2f1vPt4qMmlqJ6/view?usp=sharing
+
+
+download this link.
+https://drive.google.com/file/d/1pfvDlQDcxt9jEHqSWDovd0kCrXjeGO3a/view?usp=sharing
